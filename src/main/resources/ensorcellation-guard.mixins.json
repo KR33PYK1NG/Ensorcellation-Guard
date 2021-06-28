@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "ensorcellation-guard.refmap.json",
+    "package": "rmc.mixins.ensorcellation_guard.inject",
+    "mixins": [
+        "AreaEffectHelperMixin"
+    ]
+}
